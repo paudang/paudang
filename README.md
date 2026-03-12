@@ -9,7 +9,7 @@ I am a software engineer with over 8 years of experience, specializing in buildi
 
 ### 📦 [Node.js Quickstart Structure](https://github.com/paudang/nodejs-quickstart-structure)
 A powerful CLI tool to scaffold production-ready Node.js microservices with built-in best practices.
-* 🏆 **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure) downloads.
+* 🏆 **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure).
 * ⚙️ **Architecture:** Supports 480+ project combinations, allowing developers to choose between **Clean Architecture** and **MVC**.
 * 🛠️ **Enterprise-Grade:** Built-in Security (Helmet, HPP, CORS), Testing Strategy (Jest), and DevOps workflows.
 * 🔌 **Integrations:** Out-of-the-box support for REST, GraphQL, Kafka, Redis, and multi-stage Docker builds.
