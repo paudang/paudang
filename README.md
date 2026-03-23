@@ -1,7 +1,7 @@
 # Hi, I'm Pau 👋
-### Senior Software Engineer & System Architect
+### Senior Software Engineer | 8+ Years Experience  
 
-I am a software engineer with over 8 years of experience, specializing in building production-ready Node.js ecosystems, microservices, and scalable architectures. I am passionate about establishing engineering standards, developer automation, and creating CLI tools that save thousands of development hours.
+Currently leading fintech solutions at NAB Vietnam. I specialize in building production‑ready Node.js ecosystems, microservices, and scalable architectures. My passion lies in establishing engineering standards, driving developer automation, and creating CLI tools that save thousands of development hours.
 
 ---
 
@@ -9,7 +9,7 @@ I am a software engineer with over 8 years of experience, specializing in buildi
 
 ### 📦 [Node.js Quickstart Structure](https://github.com/paudang/nodejs-quickstart-structure)
 A powerful CLI tool to scaffold production-ready Node.js microservices with built-in best practices.
-* 🏆 **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure).
+* 🏆 **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure)
 * ⚙️ **Architecture:** Supports 480+ project combinations, allowing developers to choose between **Clean Architecture** and **MVC**.
 * 🛠️ **Enterprise-Grade:** Built-in Security (Helmet, HPP, CORS), Testing Strategy (Jest), and DevOps workflows.
 * 🔌 **Integrations:** Out-of-the-box support for REST, GraphQL, Kafka, Redis, and multi-stage Docker builds.
