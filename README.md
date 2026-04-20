@@ -10,7 +10,7 @@ Currently leading fintech solutions at NAB Vietnam. I specialize in building pro
 ### 📦 [Node.js Quickstart Generator](https://github.com/paudang/nodejs-quickstart-structure)
 A powerful CLI tool to scaffold production-ready Node.js microservices with built-in best practices.
 * 🏆 **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure)
-* ⚙️ **Architecture:** Supports 480+ project combinations, allowing developers to choose between **Clean Architecture** and **MVC**.
+* ⚙️ **Architecture:** Supports 5,280+ project combinations, allowing developers to choose between **Clean Architecture** and **MVC**.
 * 🛠️ **Enterprise-Grade:** Built-in Security (Helmet, HPP, CORS), Testing Strategy (Jest), and DevOps workflows.
 * 🔌 **Integrations:** Out-of-the-box support for REST, GraphQL, Kafka, Redis, and multi-stage Docker builds.
 
