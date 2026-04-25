@@ -19,7 +19,7 @@ A powerful CLI tool to scaffold production-ready Node.js microservices with buil
 
 ---
 
-## 🛠️ Core Competencies & Tech Stack
+## Core Competencies & Tech Stack
 
 * **Architecture & DevOps:** Clean Architecture, Microservices, Mono-repo Design, Event-Driven (Kafka), Redis, Docker, CI/CD (GitHub Actions, GitLab CI).
 * **Backend Engineering:** Node.js, Express.js, TypeScript, API Design (RESTful, GraphQL).
