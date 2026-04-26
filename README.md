@@ -1,5 +1,5 @@
 # Hi, I'm Pau 
-### Senior Software Architect | 8+ Years Experience | Author @ System Weakness (Medium)
+### Senior Software Engineer |  8+ Years Experience | Technical Writer @ System Weakness
 
 Currently leading fintech solutions at NAB Vietnam. I specialize in building production‑ready Node.js ecosystems, microservices, and scalable architectures. My passion lies in establishing engineering standards, driving developer automation, and creating CLI tools that save thousands of development hours.
 
