@@ -5,7 +5,13 @@ Currently leading fintech solutions at NAB Vietnam. I specialize in building pro
 
 ---
 
-## Featured in Cybersecurity: Our architecture for [JWT Revocation at Scale](https://systemweakness.com/the-illusion-of-stateless-security-rethinking-jwt-revocation-at-scale-8426472c5022) was hand-picked by System Weakness.
+## Featured in Cybersecurity (System Weakness)
+My architectural research on modern security patterns was hand-picked and featured by System Weakness:
+
+* **[The Social Login Trap](https://systemweakness.com/the-social-login-trap-architecting-defenses-against-account-takeovers-3f34948169c4)**: Architecting defenses against account takeovers in OAuth2 flows.
+* **[JWT Revocation at Scale](https://systemweakness.com/the-illusion-of-stateless-security-rethinking-jwt-revocation-at-scale-8426472c5022)**: Rethinking stateless security and high-performance token management.
+
+---
 
 ### [Node.js Quickstart Generator](https://github.com/paudang/nodejs-quickstart-structure)
 A powerful CLI tool to scaffold production-ready Node.js microservices with built-in best practices.
