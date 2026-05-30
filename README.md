@@ -19,7 +19,7 @@ My architectural research on modern security patterns was hand-picked and featur
 A powerful CLI tool to scaffold production-ready Node.js microservices with built-in best practices.
 * **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure)
 * **Verified**: Audited with Snyk & SonarQube to ensure zero-vulnerability scaffolding.
-* **Architecture:** Supports 5,280+ project combinations, allowing developers to choose between **Clean Architecture** and **MVC**.
+* **Architecture:** Supports 1.06M+ project combinations, allowing developers to choose between **Clean Architecture** and **MVC**.
 * **Enterprise-Grade:** Built-in Security (Helmet, HPP, CORS), Testing Strategy (Jest), and DevOps workflows.
 * **Integrations:** Out-of-the-box support for REST, GraphQL, Kafka, Redis, and multi-stage Docker builds.
 
