@@ -12,6 +12,7 @@ My architectural research on modern security patterns was hand-picked and featur
 * **[JWT Revocation at Scale](https://systemweakness.com/the-illusion-of-stateless-security-rethinking-jwt-revocation-at-scale-8426472c5022)**: Rethinking stateless security and high-performance token management.
 * **[The OAuth Integration Debt](https://systemweakness.com/the-oauth-integration-debt-why-your-social-login-is-a-csrf-risk-c2008099c05e)**: Why Your Social Login Is a CSRF Risk
 * **[Designing a Zero-Trust AWS Architecture](https://systemweakness.com/why-your-default-vpc-is-a-hackers-playground-designing-a-zero-trust-aws-architecture-7551102193cd)**: Why Your Default VPC is a Hacker’s Playground
+* **[Weaponizing the Weakest Link](https://systemweakness.com/weaponizing-the-weakest-link-how-attackers-exploit-cascading-failures-in-microservices-and-how-to-31760e5818fd)**: How Attackers Exploit Cascading Failures in Microservices (And How to Stop It)
 
 ---
 
