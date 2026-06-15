@@ -14,6 +14,8 @@ My architectural research on modern security patterns was hand-picked and featur
 * **[Designing a Zero-Trust AWS Architecture](https://systemweakness.com/why-your-default-vpc-is-a-hackers-playground-designing-a-zero-trust-aws-architecture-7551102193cd)**: Why Your Default VPC is a Hacker’s Playground
 * **[Weaponizing the Weakest Link](https://systemweakness.com/weaponizing-the-weakest-link-how-attackers-exploit-cascading-failures-in-microservices-and-how-to-31760e5818fd)**: How Attackers Exploit Cascading Failures in Microservices (And How to Stop It)
 
+👉 **[All Articles & Deep Dives](https://nodejs-quickstart-generator.netlify.app/guide/articles.html)**
+
 ---
 
 ### [Node.js Quickstart Generator](https://github.com/paudang/nodejs-quickstart-structure)
