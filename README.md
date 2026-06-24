@@ -1,5 +1,5 @@
 # Hi, I'm Pau 
-### Senior Software Engineer |  8+ Years Experience | Technical Writer @ System Weakness
+### Senior Software Engineer | 8+ Years Experience | Technical Writer @ System Weakness
 
 Currently leading fintech solutions at NAB Vietnam. I specialize in building production‑ready Node.js ecosystems, microservices, and scalable architectures. My passion lies in establishing engineering standards, driving developer automation, and creating CLI tools that save thousands of development hours.
 
@@ -18,6 +18,7 @@ My architectural research on modern security patterns was hand-picked and featur
 
 ---
 
+## Featured Open-Source Products
 ### [Node.js Quickstart Generator](https://github.com/paudang/nodejs-quickstart-structure)
 A powerful CLI tool to scaffold production-ready Node.js microservices with built-in best practices.
 * **Impact:** Reached [![npm total downloads](https://img.shields.io/npm/dt/nodejs-quickstart-structure.svg?style=flat-square)](https://www.npmjs.com/package/nodejs-quickstart-structure)
@@ -30,10 +31,21 @@ A powerful CLI tool to scaffold production-ready Node.js microservices with buil
 
 ---
 
+### [PrivaSub: 100% Offline AI Subtitles & Multilingual Translator](https://github.com/paudang/PrivaSub)
+An enterprise-grade, fully offline desktop application designed for secure real-time meeting captioning and automated batch video translation.
+* **Zero-Data Leak:** 100% local operation with zero cloud API dependencies, ensuring strict confidentiality for internal fintech/enterprise meetings.
+* **CPU-First Architecture:** Leverages **AVX2 instructions** and **INT8 Quantization** (CTranslate2) to execute advanced models (`Faster-Whisper` + `Meta NLLB-200`) seamlessly on standard Core i5/Ryzen 5 CPUs within a ~900MB RAM footprint.
+* **Enterprise Rigor:** Built with robust Win32 single-instance mutexes, non-blocking asynchronous audio capturing loops, and **>90% automated test coverage** enforced via strict pre-push hooks.
+
+👉 [View Project & Release Notes on GitHub](https://github.com/paudang/PrivaSub)
+
+---
+
 ## Core Competencies & Tech Stack
 
 * **Architecture & DevOps:** Clean Architecture, Microservices, Mono-repo Design, Event-Driven (Kafka), Redis, Docker, CI/CD (GitHub Actions, GitLab CI).
 * **Backend Engineering:** Node.js, Express.js, TypeScript, API Design (RESTful, GraphQL).
+* **AI & Security:** Local AI Execution (Whisper, NLLB-200, CTranslate2, INT8), OAuth2 Defenses, Offline Privacy Architecture.
 * **Databases:** PostgreSQL, MySQL, MongoDB, Flyway Migrations.
 * **Frontend & Mobile:** ReactJS, advanced JavaScript performance tuning (including memory leak detection on mobile environments).
 
