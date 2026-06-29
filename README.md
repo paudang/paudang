@@ -31,16 +31,6 @@ A powerful CLI tool to scaffold production-ready Node.js microservices with buil
 
 ---
 
-### [PrivaSub: 100% Offline AI Subtitles & Multilingual Translator](https://github.com/paudang/PrivaSub)
-An enterprise-grade, fully offline desktop application designed for secure real-time meeting captioning and automated batch video translation.
-* **Zero-Data Leak:** 100% local operation with zero cloud API dependencies, ensuring strict confidentiality for internal fintech/enterprise meetings.
-* **CPU-First Architecture:** Leverages **AVX2 instructions** and **INT8 Quantization** (CTranslate2) to execute advanced models (`Faster-Whisper` + `Meta NLLB-200`) seamlessly on standard Core i5/Ryzen 5 CPUs within a ~900MB RAM footprint.
-* **Enterprise Rigor:** Built with robust Win32 single-instance mutexes, non-blocking asynchronous audio capturing loops, and **>90% automated test coverage** enforced via strict pre-push hooks.
-
-👉 [View Project & Release Notes on GitHub](https://github.com/paudang/PrivaSub)
-
----
-
 ## Core Competencies & Tech Stack
 
 * **Architecture & DevOps:** Clean Architecture, Microservices, Mono-repo Design, Event-Driven (Kafka), Redis, Docker, CI/CD (GitHub Actions, GitLab CI).
