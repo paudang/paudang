@@ -35,7 +35,6 @@ A powerful CLI tool to scaffold production-ready Node.js microservices with buil
 
 * **Architecture & DevOps:** Clean Architecture, Microservices, Mono-repo Design, Event-Driven (Kafka), Redis, Docker, CI/CD (GitHub Actions, GitLab CI).
 * **Backend Engineering:** Node.js, Express.js, TypeScript, API Design (RESTful, GraphQL).
-* **AI & Security:** Local AI Execution (Whisper, NLLB-200, CTranslate2, INT8), OAuth2 Defenses, Offline Privacy Architecture.
 * **Databases:** PostgreSQL, MySQL, MongoDB, Flyway Migrations.
 * **Frontend & Mobile:** ReactJS, advanced JavaScript performance tuning (including memory leak detection on mobile environments).
 
