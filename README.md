@@ -31,6 +31,16 @@ A powerful CLI tool to scaffold production-ready Node.js microservices with buil
 
 ---
 
+### [ArchGuard AI](https://github.com/paudang/archguard-ai) `[In Active Development]`
+An automated GitHub Action that acts as a Serverless Senior Software Architect to audit Pull Requests for decoupling leaks and security vulnerabilities.
+* **Core Value:** Enforces strict **Clean Architecture** boundaries and detects modern architectural drifts (like infrastructure leakage or stateless token risks) directly inside the PR lifecycle.
+* **Infrastructure:** Engineered with a 100% serverless, edge-computed backend leveraging Cloudflare Workers, secure HMAC payload signing, and an asynchronous queue pipeline to eliminate runner timeouts.
+* **Status:** POC successfully validated. Currently refactoring into a production-ready, zero-data-retention open-source engine before deploying to the GitHub Marketplace.
+
+👉 [Explore Repository](https://github.com/paudang/archguard-ai)
+
+---
+
 ## Core Competencies & Tech Stack
 
 * **Architecture & DevOps:** Clean Architecture, Microservices, Mono-repo Design, Event-Driven (Kafka), Redis, Docker, CI/CD (GitHub Actions, GitLab CI).
